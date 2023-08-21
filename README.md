@@ -1,6 +1,6 @@
 # WeatherAPP
 
-In this project,  i created angular weather application which tells you the weather of a location.
+In this project,  I created angular weather application which tells you the weather of a location.
 
 This Angular project will have a search functionality in which the user can type in the location for which they want to search the weather for.
 
@@ -12,6 +12,12 @@ The lower data section will be like a more information section holding other rel
 
 
 ![Screenshot (6)](https://github.com/Hunnytyagi1996/Live-Weather-App/assets/48430498/0ba4ac38-e3c8-4a52-9830-8460e994bf02)
+
+
+# RapidApi Service To Get Weather API Data
+
+ In this project I am linking our weather app to talk to an external API using RapidAPI.
+
 
 
 
