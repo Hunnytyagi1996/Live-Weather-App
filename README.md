@@ -1,6 +1,6 @@
 # WeatherAPP
 
-In this project,  I created angular weather application which tells you the weather of a location.
+In this project,  I created angular weather application which tells you the weather of a location. 
 
 This Angular project will have a search functionality in which the user can type in the location for which they want to search the weather for.
 
