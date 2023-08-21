@@ -1,6 +1,16 @@
 # WeatherAPP
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+In this project,  i created angular weather application which tells you the weather of a location.
+
+This Angular project will have a search functionality in which the user can type in the location for which they want to search the weather for.
+
+# Creating UI Structure For Our App
+
+The upper data section will hold the name of the location and the temperature.
+
+The lower data section will be like a more information section holding other related details like minimum temperature, maximum temperature etc.
+
+
 
 ## Development server
 
