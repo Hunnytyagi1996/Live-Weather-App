@@ -16,9 +16,14 @@ The lower data section will be like a more information section holding other rel
 
 # RapidApi Service To Get Weather API Data
 
- In this project I am linking our weather app to talk to an external API using RapidAPI.
+ In this project I have integrated our weather app to talk to an external API using RapidAPI.
 
-
+# Technologies Used
+ 1. Angular Framework
+ 2. HTML
+ 3. CSS
+ 4. Javascript
+ 5. Typescript
 
 
 ## Development server
