@@ -11,6 +11,9 @@ The upper data section will hold the name of the location and the temperature.
 The lower data section will be like a more information section holding other related details like minimum temperature, maximum temperature etc.
 
 
+![Screenshot (6)](https://github.com/Hunnytyagi1996/Live-Weather-App/assets/48430498/0ba4ac38-e3c8-4a52-9830-8460e994bf02)
+
+
 
 ## Development server
 
